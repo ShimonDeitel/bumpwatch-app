@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BumpwatchTests
-      - path: Bumpwatch.storekit
     dependencies:
       - target: Bumpwatch
     settings:
